@@ -1,0 +1,28 @@
+{
+  "name": "react-todo-list",
+  "version": "1.0.0",
+  "description": "Professional React Todo List App with JSX files",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-datepicker": "^4.16.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "@hello-pangea/dnd": "^16.2.0",
+    "date-fns": "^2.30.0",
+    "react-icons": "^4.10.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "keywords": [
+    "react",
+    "todo",
+    "jsx",
+    "parcel"
+  ],
+  "license": "MIT"
+}
