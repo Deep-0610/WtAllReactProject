@@ -1,0 +1,24 @@
+{
+  "name": "experiment10-chartjs-app",
+  "version": "1.0.0",
+  "description": "React app with Chart.js for visualizing user-entered data",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "keywords": [
+    "react",
+    "chart.js",
+    "visualization"
+  ],
+  "license": "MIT"
+}
